@@ -127,9 +127,11 @@ api/productos/?page=1|2|3|...
 ![Home Page](images/screenshots/home.png)  
 
 > Store Page
+> 
 ![Store Page](images/screenshots/store.png)  
 
 > Login Panel
+> 
 ![Login Panel](images/screenshots/login.png)
 
 ---
