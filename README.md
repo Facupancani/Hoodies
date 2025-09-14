@@ -1,6 +1,6 @@
 # Hoodies E-Commerce & API
 
-![Project Screenshot](images\hoodies.png)
+![Project Screenshot](images/hoodies.png)
 
 ## Description
 Hoodies is a **clothing e-commerce project**.  
